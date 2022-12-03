@@ -1,6 +1,6 @@
 ## Apple Website Effects
 
-## [14pro]
+## 14 pro
 
 ### [mix-blend-mode darken](https://cygra.github.io/apple-website-effects/14pro-mix-blend-darken.html)
 
